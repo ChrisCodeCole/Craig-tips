@@ -1,0 +1,6 @@
+ctrl + c - Used to cancel or exit a process
+pwd - Prints the Working Directory
+ls - Lists directories in the current directory
+cd - Change Directory
+history - shows the History of the recent commands
+(tab) - allows for easier navigation with CD and other navigational commands
