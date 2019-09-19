@@ -1,0 +1,10 @@
+git commands start with "git":
+
+init - initializes a git repository for the first time
+add - tracks files (use git add . to track all files)
+status - shows current tracked files
+commit -m "" - commits the tracked files (basically saves them)
+push - pushes to the remote repository
+checkout - used to switch branches or specific commits
+checkout -b  - creates a new branch and switches to it in one line
+
